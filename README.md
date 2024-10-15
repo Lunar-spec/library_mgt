@@ -19,3 +19,5 @@ This project is a React-based online library system.
 
 ## GitHub Link
 ```
+https://github.com/Lunar-spec/library_mgt.git
+```
